@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currentlu working on smart buildings technologies
+Currently working on smart buildings technologies
 
 <!--
 **Marc2049/Marc2049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
